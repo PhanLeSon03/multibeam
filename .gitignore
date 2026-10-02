@@ -1,0 +1,9 @@
+*
+!.gitignore
+!pattern_metrics.py
+!UCA_pattern.py
+!ULA_pattern.py
+!ULA_truncation.py
+!UCA_truncation.py
+!wng_highfreq.py
+!wng_lowfreq.py
